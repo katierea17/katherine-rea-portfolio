@@ -1,0 +1,7 @@
+# Only track website files
+*
+!.gitignore
+!index.html
+!katherine-rea-website.html
+!resume.pdf
+!site-logos/
