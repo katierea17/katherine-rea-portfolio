@@ -1,0 +1,36 @@
+# Katherine Rea
+
+> Fractional AI Product Marketing Leader — San Luis Obispo, CA
+
+Katherine Rea is a senior product marketing leader with 10+ years of experience driving subscriber growth and go-to-market strategy across global subscription and marketplace businesses.
+
+She is available for fractional engagements and specializes in:
+- AI product positioning and launch strategy
+- Subscription GTM and lifecycle marketing
+- Competitive intelligence and market research
+- Creator and influencer growth programs
+- Cross-functional GTM leadership
+
+## Current & Recent Work
+
+- **Adobe** (2026–present): Senior PMM for the global student business — owns value proposition, messaging, and GTM strategy for Creative Cloud across a 250M+ learner market. Built AI-focused competitive landscape tracker covering 15 competitors.
+- **DIRECTV** (2022–2026): Senior PMM for premium video subscription products. Achieved 120% of gross subscriber targets in 2024, 145% in 2025. Led brand-led campaigns featuring Travis Kelce and Kumail Nanjiani.
+- **KiwiCo** (2017–2022): Grew influencer ecosystem to 7M+ global reach, CPA 50% below target, tripled monthly campaign volume.
+- **Minted** (2014–2017): Co-developed and launched Minted More, the company's first subscription program.
+- **Hulu** (2012–2014): Contributed to launch of Hulu Plus, growing to 25M+ members.
+
+## AI Projects Built
+
+- **Keto Meal Planner**: Full-stack meal planning app built in Claude Code — drag-and-drop meal and snack cards, real-time macro tracking, daily feedback. Live at https://awesome-keto-planner.netlify.app/
+- **AI Creative Market Landscape**: Standalone competitive intelligence tracker monitoring 15 AI creative tool competitors across pricing, messaging, customer sentiment, and AI credit systems.
+- **PMM Resources Hub**: Reorganized internal wiki using AI into a job-to-be-done framework — five lanes replacing hundreds of scattered docs.
+
+## Education
+
+BA, Economics, cum laude — University of Pennsylvania
+
+## Contact
+
+- Website: https://katherine-rea-portfolio.netlify.app
+- LinkedIn: https://www.linkedin.com/in/katherine-rea/
+- Email: katierea17@gmail.com
